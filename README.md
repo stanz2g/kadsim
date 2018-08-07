@@ -11,6 +11,7 @@ a simple tour
 3. use `node` to show detail of a node, including k-buckets
 4. use `findn` to find node and check every step
 5. use `del` to kill nodes, then use commands above to see what's changed
+6. use `help` to get help
 
 ## Reference
 
