@@ -415,9 +415,9 @@ def cmd_find_node(args):
         # result is local optimal. check if it's global optimal
         go = get_global_nearest(K, tid)
         if cmp(result, go) == 0:
-            print 'get global optimal', result
+            print 'result', result, 'is global optimal'
         else:
-            print 'result', result, 'is not global optimal', go
+            print 'result', result, 'is NOT global optimal', go
 
 # cmd registry
 CMD_MAP = {
