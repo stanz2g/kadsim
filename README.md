@@ -4,6 +4,8 @@ simple demo written to learn Kademlia
 
 ## Usage
 
+run kadsim.py with Python 2.7 and input commands
+
 a simple tour
 
 1. use `new_rand` to add some random nodes
